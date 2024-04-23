@@ -9,11 +9,11 @@
          "manager",
          "Miku"
       ],   
-   "repository": "https://github.com/h0daka/Miku-Nakano",
+   "repository": "https://github.com/ITS-MY-EDIT/Miku-Nakano",
    "addons": [
       {
          "options": {
-            "version": "12"
+            "version": "15"
          },
          "plan": "heroku-postgresql"
       }
